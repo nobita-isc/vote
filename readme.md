@@ -1,2 +1,1 @@
-# vote
-Simple voting app in laravel
+# Simple voting app in laravel
